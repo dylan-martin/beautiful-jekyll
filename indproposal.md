@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Insert Title Here
-subtitle: Tinder for College Search
+title: College Connect
+subtitle: Tinder for the College Search
 ---
 
 # Motivation
@@ -16,4 +16,6 @@ So how do we move past these limitations in the college search provess?  How do 
 
 # Idea
 
-I want to improve this process by moving the college search process into the wild, facilitating interpersonal discussions that both dig deeper than Admissions Office spiels and make the information accessible to a broad range of people.  I believe that the best way to learn about a school and what it offers its students is by speaking directly to members of the school community.  During my college search process, speaking with students always told me 
+I want to improve the college search process by facilitating person-to-person discussions that both dig deeper than Admissions Office spiels and make the information accessible to all applicants, regardless of income or geography.  I believe that the best way to learn about a school and what it offers its students is by speaking directly to members of the school community.  To make this possible for everyone, I want to design an online platform (an app or website) that matches college applicants to current students based on academic and extra-curricular interests.  Applicants would be able to build profiles that describe their interests and the aspects of a school that are most important to them.  They would then choose colleges that they are interested in, and would be presented with students from those schools who have similar interests and participate in the aspects of student life that the applicants are interested in.  The platform would then facilitate personal discussion (text-based or video) between the applicants and students.  This would help bring the benefit of personal interaction to as many college applicants as possible, helping to present valuable information to as many applicants as possible.
+
+# Analysis
