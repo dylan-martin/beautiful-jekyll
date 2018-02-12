@@ -2,7 +2,7 @@
 layout: page
 title: Insert Title Here
 subtitle: Tinder for College Applicants
---
+---
 
 # Motivation
 
