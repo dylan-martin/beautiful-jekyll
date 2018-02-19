@@ -4,7 +4,7 @@ title: College Connect
 subtitle: Tinder for the College Search
 ---
 
-Check out our updated group site for this project [here](dylan-martin.github.io/college_connect).
+Check out our updated group site for this project [here](https://dylan-martin.github.io/college_connect).
 
 # Motivation
 
