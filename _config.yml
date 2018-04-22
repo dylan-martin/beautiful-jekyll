@@ -23,6 +23,7 @@ description: My website for CSCI 376.
 
 # List of links in the navigation bar
 navbar-links:
+  Research Paper Report: "report"
   Design Examples:
     - Good Design: "good_design"
     - Bad Design: "bad_design"
