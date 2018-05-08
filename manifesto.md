@@ -1,0 +1,12 @@
+---
+title: Design Manifesto
+layout: page
+---
+
+I came into this course with limited understanding of design principles and how these ideas worked to inform the creation of useful and intuitive products. I anticipated that this course would primarily provide basic guidelines about how to make software effectively serve its users and concrete rules to follow when creating a new platform.  What I learned, through the process of designing College Connect, however, was that design cannot be simplified to a set of static standards.  Rather, design is a process.  While some guidelines can be useful in the creation of a product, creating software that meets the needs of its users requires the constant input of the diverse groups of individuals who will interact with it.  We, as engineers and designers, cannot simply fit our ideas about how a platform should look and behave into previously established standards and expect to create a product that suits our users or fulfills their requirements.  Instead, we must actively take the input of users into account at every step along the way.
+
+Importantly, the process of designing College Connect was primarily one of expansion.  We began with what seemed like a simple idea: to connect college applicants with current students.  We believed that the college search process was difficult and often prohibitive, particularly for applicants who were geographically removed from their prospective colleges or who did not have the financial means to visit the schools they hoped to attend.  While these beliefs were confirmed throughout our design process, we could never have predicted the nuanced experiences of applicants and students or the insights that these individuals could provide on the college search process and how we could improve it.  These insights pushed us to consider user needs and aspects of our platform that my teammates and I would never have seen without engaging our potential users .
+
+While I will discuss several principles that were central to my personal design experience here, I do not hope to suggest any rules for future design.  Rather, I hope to highlight some of the key lessons I learned as my team developed College Connect from our initial proposal to the product that we have now.  The following aspects of my personal design process are guidelines that I will use to shape my future design efforts and keep in mind whenever I set out to answer user needs.
+
+## Accessibility: A Constant Consideration, Not an Afterthought
