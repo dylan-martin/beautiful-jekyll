@@ -47,7 +47,11 @@ If this project taught me anything, it is that iteration is key to effective des
 
 There is always more that could be added to a design.  At each phase of our design process, we became aware of additional functionalities that could improve College Connect and pages that could be added to make the current functionalities more clear.  However, it is important to strike a balance between incorporating new elements into the design and refining what has already been implemented.  While I feel that most, if not all, of the additions we made to our prototype were necessary to effectively serving our users and allowing them to accomplish the core tasks we identified, we often erred on the side of addition throughout our design process.  In future design efforts, and in a continuation of this project, I would devote more time to ensuring that the elements we have already incorporated into the platform are fully functional and are providing as much functionality as possible.  As an example, when users had difficulty navigating past the personal profile creation section of our paper prototype, we chose to add an additional page which simply directed users to see their potential connections.  A more elegant solution, which we implemented in a later iteration, was simply to make the buttons on the personal profile creation pages more distinct and descriptive.  This instance made me realize the importance of deeply engaging with user comments and behaviors--sometimes broad user needs are hidden in their stated wants.  Thus, it is essential to think about user criticism not simply as a direct demand for *more* functionality, but rather as a guide to make already present functionality *better.*  With this in mind, I will actively consider if an issue revealed in user testing can be solved through modification of present design elements before adding more to the platform.
 
-IMAGES OF "VIEW POTENTIAL CONNECTIONS PAGE"
+<center>
+  <img src="https://raw.githubusercontent.com/dylan-martin/dylan-martin.github.io/master/img/pc.png" width="25%" height="25%"/>
+</center>
+
+*The "View Potential Connections" page which users were directed to after completing their personal profiles.*
 
 ## Teamwork: Two (or Three) Heads is Better than One
 
